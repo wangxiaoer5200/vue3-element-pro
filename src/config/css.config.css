@@ -1,0 +1,14 @@
+
+/* 修改皮肤等样式 */
+:root {
+  --theme-color: #2176FF;
+  --theme-font-size: 14px;
+  --menu-theme: #001529;
+  --menu-logo: #fff;
+}
+
+.light-theme {
+  --menu-theme: #fff;
+  --menu-logo: #333;
+  --menu-color: #fff;
+}
